@@ -1,4 +1,4 @@
-# My_education_projects
+# Data-analytics-portfolio
 | Name of project | Description |
 |:-------------:|:-------------|
 | [Analysis of business indicators](https://github.com/Fandooor/My_education_projects/blob/main/Analysis%20of%20business%20indicators.ipynb) | As a marketing analyst for app, your task is to investigate why the company has been experiencing losses despite significant advertising investments. You will analyze data on user behavior, purchases, and advertising costs from May to October 2019. The project involves identifying where users come from, which devices they use, and the costs associated with acquiring them through various channels. Additionally, you'll assess metrics such as LTV, ROI, retention, and conversion rates to determine the profitability of marketing efforts and provide recommendations to improve customer acquisition strategies.   |
