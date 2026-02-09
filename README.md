@@ -75,14 +75,4 @@ Python (pandas, scipy, matplotlib)
 **✅ Results**  
 - Determined whether the experiment had a statistically significant impact  
 - Provided a clear **decision to stop or continue the test**  
-- Demonstrated a structured approach to data-driven experimentation  
-
----
-
-## 🧠 Key Skills Demonstrated
-
-- Exploratory Data Analysis (EDA)  
-- Business metrics and KPI analysis  
-- A/B testing and statistical inference  
-- Data visualization and storytelling  
-- Python for data analysis 
+- Demonstrated a structured approach to data-driven experimentation
