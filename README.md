@@ -1,6 +1,88 @@
-# Data-analytics-portfolio
-| Name of project | Description |
-|:-------------:|:-------------|
-| [Analysis of business indicators](https://github.com/Fandooor/My_education_projects/blob/main/Analysis%20of%20business%20indicators.ipynb) | As a marketing analyst for app, your task is to investigate why the company has been experiencing losses despite significant advertising investments. You will analyze data on user behavior, purchases, and advertising costs from May to October 2019. The project involves identifying where users come from, which devices they use, and the costs associated with acquiring them through various channels. Additionally, you'll assess metrics such as LTV, ROI, retention, and conversion rates to determine the profitability of marketing efforts and provide recommendations to improve customer acquisition strategies.   |
-| [Data visualization](https://github.com/Fandooor/My_education_projects/blob/main/Data%20visualization.ipynb)| The project involves a market analysis of public food establishments in Moscow. The investors from the "Shut Up and Take My Money" fund plan to open a new establishment but are unsure of its type (e.g., café, restaurant, pizzeria, pub, or bar), location, menu, or pricing. As a data analyst, you are tasked with preparing a comprehensive report on the Moscow food market. Using a dataset of food establishments from services like Yandex Maps and Yandex Business, you'll conduct data preprocessing, analysis, and visualization. The goal is to present findings to help investors make informed decisions, with a special focus on opening a coffee shop in Moscow.  |
-| [Statistical research](https://github.com/Fandooor/My_education_projects/blob/main/Statistical%20research.ipynb)| This project focuses on the analysis of hypotheses and an A/B test for an online store aimed at increasing revenue. In the first part, the task is to prioritize nine hypotheses using the ICE and RICE frameworks, comparing the differences in prioritization between the two methods. In the second part, you will analyze the results of an A/B test using provided datasets, exploring cumulative revenue, average order value, and customer behavior across test groups. The project involves detecting anomalies, calculating statistical significance, and making data-driven decisions on whether to stop the test or continue based on the findings. |
+# 📊 Data Analytics Portfolio
+
+This repository contains selected data analysis projects demonstrating hands-on experience in **business analytics, statistical analysis, and data-driven decision-making** using Python and SQL.
+
+The projects focus on working with real-world datasets, identifying patterns in data, and translating analytical results into actionable business insights.
+
+---
+
+## 📈 [Business Metrics & Marketing Performance Analysis](https://github.com/Fandooor/My_education_projects/blob/main/Analysis%20of%20business%20indicators.ipynb)
+
+**🎯 Goal**  
+Understand why the company was operating at a loss despite significant marketing investments.
+
+**📊 Data**  
+- User acquisition and behavior data  
+- Purchase history  
+- Marketing and advertising costs  
+
+**🛠 Tools**  
+Python (pandas, numpy, matplotlib), SQL
+
+**🔍 Key Analysis**  
+- Cohort analysis by acquisition channel  
+- Calculation of **LTV, CAC, ROI, retention, and conversion rates**  
+- Performance comparison across devices and marketing channels  
+
+**✅ Results**  
+- Identified unprofitable acquisition channels with negative ROI  
+- Highlighted user segments with low retention  
+- Provided data-driven recommendations to optimize marketing budget allocation  
+
+---
+
+## ☕ [Market Analysis & Data Visualization (Food Industry)](https://github.com/Fandooor/My_education_projects/blob/main/Data%20visualization.ipynb)
+
+**🎯 Goal**  
+Analyze the public food service market to support a decision on opening a new coffee shop.
+
+**📊 Data**  
+- 8,000+ food establishments  
+- Location, pricing, category, and rating data  
+
+**🛠 Tools**  
+Python (pandas, seaborn, matplotlib)
+
+**🔍 Key Analysis**  
+- Data cleaning and exploratory data analysis (EDA)  
+- Market segmentation by type of establishment and location  
+- Visualization of pricing levels and competition density  
+
+**✅ Results**  
+- Identified optimal locations and pricing range for a coffee shop  
+- Highlighted areas with high competitive saturation  
+- Delivered insights to support strategic investment decisions  
+
+---
+
+## 🧪 [A/B Testing & Hypothesis Validation](https://github.com/Fandooor/My_education_projects/blob/main/Statistical%20research.ipynb)
+
+**🎯 Goal**  
+Evaluate product hypotheses and measure their impact on revenue using A/B testing.
+
+**📊 Data**  
+- User orders and revenue data  
+- Experiment group assignments  
+
+**🛠 Tools**  
+Python (pandas, scipy, matplotlib)
+
+**🔍 Key Analysis**  
+- Prioritization of growth hypotheses using **ICE and RICE frameworks**  
+- Analysis of cumulative revenue and average order value  
+- Statistical significance testing and anomaly detection  
+
+**✅ Results**  
+- Determined whether the experiment had a statistically significant impact  
+- Provided a clear **decision to stop or continue the test**  
+- Demonstrated a structured approach to data-driven experimentation  
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)  
+- Business metrics and KPI analysis  
+- A/B testing and statistical inference  
+- Data visualization and storytelling  
+- Python for data analysis 
